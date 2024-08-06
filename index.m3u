@@ -29,3 +29,6 @@ http://ikitv.serv00.net/stream/olymp13.m3u8
 http://ikitv.serv00.net/stream/olymp14.m3u8
 #EXTINF:-1 group-title="OLIMPIADE 2024" tvg-logo="http://i.imgur.com/m2yIxv6.png" , SERVER - 15 [ BAJOLSTREAM ]
 http://ikitv.serv00.net/stream/olymp15.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://i.imgur.com/fRRhbFT.png" , INDOSIAR
+http://hqth.me/BAJOLSTREAM-Indosiar01
