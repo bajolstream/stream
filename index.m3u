@@ -31,10 +31,10 @@ http://ikitv.serv00.net/stream/olymp14.m3u8
 http://ikitv.serv00.net/stream/olymp15.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://i.imgur.com/fRRhbFT.png" , INDOSIAR
-http://hqth.me/BAJOLSTREAM-Indosiar
+http://ikitv.serv00.net/get/indosiar02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bajolstream/stream/main/20240806_191141.png" , MOJI
-http://hqth.me/BAJOLSTREAM-MOJI
+http://ikitv.serv00.net/get/moji01.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bajolstream/stream/main/20240806_191054.png" , SCTV
-http://hqth.me/BAJOLSTREAM-SCTV
+http://ikitv.serv00.net/get/sctv01.m3u8
