@@ -42,5 +42,5 @@ http://ikitv.serv00.net/get/sctv01.m3u8
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/1024px-Sky_Sport_Premier_League_Logo_2022.svg.png?20221030180538" , SKYSPORT PREMIER LEAGUE 
 http://hqth.me/BajolStream-SkysportsEPL
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png" NOW SPORT 1
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png", NOW SPORT 1
 http://hqth.me/NOWSPORTS-BAJOLSTREAM
