@@ -31,7 +31,7 @@ http://ikitv.serv00.net/stream/olymp14.m3u8
 http://ikitv.serv00.net/stream/olymp15.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://i.imgur.com/fRRhbFT.png" , INDOSIAR
-http://ikitv.serv00.net/get/indosiar02.m3u8
+http://ikitv.serv00.net/siarindo3.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bajolstream/stream/main/20240806_191141.png" , MOJI
 http://ikitv.serv00.net/get/moji01.m3u8
