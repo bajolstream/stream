@@ -44,3 +44,21 @@ http://hqth.me/BajolStream-SkysportsEPL
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png", NOW SPORT 1
 http://hqth.me/NOWSPORTS-BAJOLSTREAM
+
+
+
+#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="http://omzolix.elementfx.com/logoss/deddy.png" group-title="DADDY LIVE HD",Astro SuperSport 1
+#EXTHTTP:{"Origin": "https://claplivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="http://omzolix.elementfx.com/logoss/deddy.png" group-title="DADDY LIVE HD",Astro SuperSport 2
+#EXTHTTP:{"Origin": "https://claplivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+https://trial.cikgusuraya.tech/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzQwNjkzMTgiLCJyZWZyZXNoX3Rva2VuIjoiMTBvV0Jpa2lvSGJZSE14aTdoR0pvdDM1MThweVdCU1wvbXRjVEwxQ1ZKS0RtMUtaUUR4VTZReUhrdlRiSGZEV0NmaTdncVY1WlBKSnBvb0dZaVwvXC90Mks4dWZZbzBiSVRhQmk1MkZINXdcL2hQOTJwQ21aK1YrT1hNaWN2MURXS29jUDl0Um0rdGlKRXhPRDFPZTRucVRvZUJCb2g4NEJKZmgwZ2xqVVQrbm90ZHNtSGdHRXZHZ0lNZ2pvNVwvMVExcDVtbkJKQnBCMkVtZmdVbVwvc3lIZ2NkMVdZbDhpUVhKWVVjV3NXWW5GM0JRQTdJMkpQVWF2NENoeGtQWUxVRTJDaWZoWnd5UVBSNUFJcUVvM2FpMlFJV3FXMmQ2bk9yY29kSG91TUtcLzNhZ0pUY2FRSXIrc081aWdEZjVNaHoxeHpjQU5CTVpCazcrb1lIamNwbEVPZ2tEMXhicmVBZnU5UkNxUTlYTm9PXC90RjA9In0=
+
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="http://omzolix.elementfx.com/logoss/deddy.png" group-title="DADDY LIVE HD",Astro SuperSport 3
+#EXTHTTP:{"Origin": "https://claplivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+https://trial.cikgusuraya.tech/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzIzOTAxNDUiLCJyZWZyZXNoX3Rva2VuIjoiTUpQbUhCN2Z4RmJab2tVXC91UVpCNHg1WGV2d3hBK05kUEVTc2YrNGY4MERcL1VRWEN4ZnBucWJYTWN0QTNaVzBhazhSOEU0c1dYNEw2anVndUZveExIVml2THBDN3BZNkVKOHhXNzNjbmxUeWNuS256bjJ4ZnNWTlZ5MDBZaEpkdlFiU3VkZk5cL01IWEM5UUpNaDNSVzlDUWRzWm92MFVRU1oxUVB1N2xWMFNIUUllZHdXUE9XNFlzbUhDRmh6d3lnZmFVT1wvZlJsVVZsdW45VVI0elhoQWQyZ3BMZm5wdGFxUkwxb2QzelFhNHcrVU9tdUliRkhtTTBicVwvZzVoQjNhdGthV2Mwc0hnYjJxbXRHK2Z5bmVBRzZ0SHdaUTNoZ1lEK0NLT3FleEZUWTlsdjNPOEcycGpzcGo4VjVJcUVEQXdFNDlLTjdPN2lIK3ZOWGJGdGpPSDNRSDVqOUYrTXVaR1VkVkg3OGVrVGc9In0=
+
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="http://omzolix.elementfx.com/logoss/deddy.png" group-title="DADDY LIVE HD",Astro SuperSport 4
+#EXTHTTP:{"Origin": "https://claplivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+https://trial.cikgusuraya.tech/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNDY1OTgxNzIiLCJyZWZyZXNoX3Rva2VuIjoieHAwZEhjT1d2bmRxWVljcDQ0RmExa3pxMkErQjlYQUVQOFF5N0VWblhGc2c2a1NoUVFuRzIyb0dZU2ZuMEtBN1wvazFRMFBaSkIzdytnVHlha2RhaXZBR2FXbkRTbFwvV1lUeVVuV3ZGZ2UyTU8zZ29ENnQ3M0JmdnlVNmMzUDBFK2xuXC96T21IdFFQdFcxSytrXC9PMkw2S2RVT3hyaUoydzl4d0dUTEtBaTdhSVVpVmxncmtRdjZCRlBkNGd3OWZyTFRzSTByM2pVcFdWVnBwQW90ZW9LVEhmSzhEVytReDNGZzNRNGp3T3BcL3VJaDQwYVpVb1Q3QTNsQVhva1U0OGt6bHZodE1iYUFqZjhxVE5YcWtSNElJUlpkTU5jZ2hVMis3OHdBbk1PUjNJczl5ZzBYWUNzMkJjWTB0TjRFQ3Rvc3g1ekg2cW9YOFJLT0RvRVRWQmF4Y29GWUR1OXVRdkZoQUdHTlNyKzlcL2MwPSJ9
